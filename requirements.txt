@@ -1,0 +1,25 @@
+# Core
+pandas
+numpy
+isodate
+python-dateutil
+
+# API calls
+requests
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Visualization & Dashboard
+streamlit
+matplotlib
+seaborn
+plotly
+
+# Environment management
+python-dotenv
+
+# Optional (but useful)
+tqdm          # progress bars
+jupyter       # if you want to experiment in notebooks
