@@ -12,8 +12,6 @@ and loads it into PostgreSQL for analytics.
 - PostgreSQL storage
 
 ## How to Run
-1. Clone repo
-2. Create `.env` with DB + API credentials
-3. Install requirements: `pip install -r requirements.txt`
-4. Run ETL: `python main.py`
-5. Launch dashboard: `streamlit run App.py`
+1. Install requirements: `pip install -r requirements.txt`
+2. Run ETL: `python main.py`
+3. Launch dashboard: `streamlit run App.py`
