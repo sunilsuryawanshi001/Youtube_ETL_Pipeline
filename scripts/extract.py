@@ -66,7 +66,7 @@ def extract_data():
 
     if not data.empty:
         # Ensure output folder exists
-        output_dir = r"F:\Projects\ETL_Project\youtube_etl_pipeline\data\raw"
+        output_dir = r"youtube_etl_pipeline\data\raw"
         os.makedirs(output_dir, exist_ok=True)
 
         # File paths
